@@ -7,7 +7,7 @@
  in the records with the index location or display an appropriate message if the total sales is not found in the array.
 //**********************************************************************************************************/
  // Programmer: muhammmad asyraf bin abdul aziz
- // Practicum: S2K2T3
+ 
 
 
 import java.util.Scanner;
